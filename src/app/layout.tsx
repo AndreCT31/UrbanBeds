@@ -75,7 +75,7 @@ export default function RootLayout({
       <meta name="twitter:image" content="https://urbanbedsexpo.com/og-image.jpg" />
 
       {/* Icono */}
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="/ico.ico" />
     </head>
       <body className={`${montserrat.variable} ${playfair.variable} ${cormorant.variable} font-sans antialiased`}>
         <LoadingProvider>
