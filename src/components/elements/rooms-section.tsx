@@ -32,11 +32,11 @@ const rooms = [
   },*/
   {
     id: 1,
-    name: "Urban Estudio – 1 Cama King Size",
+    name: "Urban Estudio – 1 Cama Matromonial",
     description:
       "Cómodo estudio de 20 m² con una cama King Size, baño completo privado y acceso a una cocineta compartida. Ideal para quienes buscan un espacio moderno y funcional. Disfruta de Wi-Fi de alta velocidad, televisión de pantalla plana y un ambiente tranquilo y libre de humo, con seguridad CCTV 24/7 y atención personalizada durante toda tu estancia.",
    features: [
-      "Cama King Size",
+      "Cama Matromonial",
       "Baño privado",
       "Cocineta compartida",
       "Wi-Fi de alta velocidad",
@@ -58,11 +58,11 @@ const rooms = [
   },
   {
     id: 2,
-    name: "Urban Estudio Doble Queen",
+    name: "Urban Estudio Doble – 2 Camas Matromoniales",
     description:
       "Para quienes buscan mayor independencia y confort, este estudio de 28 m² ofrece dos camas Queen Size, baño completo privado y una cocineta totalmente equipada para preparar tus propios alimentos. El ambiente moderno y luminoso, junto con el Wi-Fi de alta velocidad y la seguridad CCTV 24/7, garantizan una estancia tranquila y placentera en el corazón de Guadalajara.",
     features: [
-      "2 Camas Queen Size",
+      "2 Camas Matromoniales",
       "Baño privado",
       "Cocineta privada equipada",
       "Wi-Fi de alta velocidad",
