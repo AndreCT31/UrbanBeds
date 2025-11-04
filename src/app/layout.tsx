@@ -29,9 +29,7 @@ const cormorant = Cormorant_Garamond({
 
 export const metadata: Metadata = {
   title: "Urban Beds Expo",
-   icons: {
-    icon: "/ico.ico",
-  },
+  icons: "/ico.ico",
   description:
     "Un refugio entre pinos en Mazamitla, donde la naturaleza y la comodidad se unen.",
 
