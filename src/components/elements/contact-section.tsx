@@ -85,7 +85,7 @@ export function ContactSection() {
               </div>
               <div>
                 <h3 className="font-serif-text text-lg font-medium text-[#5D4037] mb-1">Email</h3>
-                <a href="mailto:reservaciones@hostaldelamontana.com"><p className="text-[#5D4037]">reservaciones@urbanbedsexpo.com</p></a>
+                <a href="mailto:reservaciones@urbanbedsexpo.com"><p className="text-[#5D4037]">reservaciones@urbanbedsexpo.com</p></a>
               </div>
             </div>
 

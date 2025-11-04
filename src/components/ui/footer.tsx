@@ -62,7 +62,7 @@ Entre el ritmo de la ciudad, un respiro para el alma.</p>
             <a href="https://maps.app.goo.gl/nWxgaqpddKj1pfyt8"> <p>Av. Mariano Otero #1160, piso 2.</p></a>
             <a href="https://maps.app.goo.gl/nWxgaqpddKj1pfyt8"><p> Guadalajara, Jal, 44520.</p></a>
               <a href="tel:+523310234445"><p  className="pt-2">Tel: +52 33 1023 4445</p></a>
-              <a href="mailto:reservaciones@urbanbeds.com"> <p>Email: reservaciones@urbanbeds.com</p></a>
+              <a href="mailto:reservaciones@urbanbedsexpo.com"> <p>Email: reservaciones@urbanbedsexpo.com</p></a>
             </address>
           </div>
         </div>
