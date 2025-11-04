@@ -30,8 +30,7 @@ const cormorant = Cormorant_Garamond({
 export const metadata: Metadata = {
   title: "Urban Beds Expo",
   icons: "/ico.ico",
-  description:
-    "Un refugio entre pinos en Mazamitla, donde la naturaleza y la comodidad se unen.",
+  
 
 }
 
@@ -43,6 +42,7 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth">
       <head>
+      <link rel="icon" href="/ico.ico" />
       {/* SEO General */}
       <meta
         name="description"
@@ -75,7 +75,6 @@ export default function RootLayout({
       <meta name="twitter:image" content="https://urbanbedsexpo.com/og-image.jpg" />
 
       {/* Icono */}
-      <link rel="icon" href="/ico.ico" />
     </head>
       <body className={`${montserrat.variable} ${playfair.variable} ${cormorant.variable} font-sans antialiased`}>
         <LoadingProvider>
