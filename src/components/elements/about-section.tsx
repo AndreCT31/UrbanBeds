@@ -47,7 +47,7 @@ Nos encontramos a solo unos pasos de Expo Guadalajara, en una zona segura, tranq
 
             </p>
             <p className="text-[#5D4037] leading-relaxed">
-             Cada habitación combina líneas limpias, detalles contemporáneos y un ambiente cálido que invita a desconectarse del ritmo urbano. Desde el confort de tu cama King Size hasta un café por la mañana en nuestra cafetería del primer piso, cada rincón de Urban Beds está pensado para que te sientas como en casa.
+             Cada habitación combina líneas limpias, detalles contemporáneos y un ambiente cálido que invita a desconectarse del ritmo urbano. Desde el confort de tu cama hasta un café por la mañana en nuestra cafetería del primer piso, cada rincón de Urban Beds está pensado para que te sientas como en casa.
             </p>
             <p className="text-[#5D4037] leading-relaxed">
 Ofrecemos <strong>self check-in 24 horas, Wi-Fi de alta velocidad y seguridad en áreas comunes</strong>, porque entendemos que el descanso tambien está en la tranquilidad de saber que todo funciona.
